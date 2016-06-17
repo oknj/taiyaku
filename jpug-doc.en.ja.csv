@@ -307,7 +307,6 @@ buffer cache,バッファキャッシュ
 buffer hits,バッファヒット
 buffer lock,バッファロック
 buffer manager,バッファマネージャ
-buffer overflow,バッファーオーバーフロー
 buffer overflow,バッファオーバーフロー
 buffer overrun,バッファオーバーラン
 buffer pins,バッファピン
